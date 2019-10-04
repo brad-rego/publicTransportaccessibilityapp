@@ -1,4 +1,4 @@
-# publicTransportaccessibilityapp
+# public Transport Accessibility App
 Public Transport accessibility application(a better name to come later)
 
 This is an application inspired by an exprience that I had recently on public transport.
