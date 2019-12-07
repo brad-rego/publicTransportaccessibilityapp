@@ -1,3 +1,5 @@
+// MainActivity.java File for Android application for my Transport Accessibility application, Copyright Bradley Rego 2019
+
 package com.example.transport;
 
 import androidx.appcompat.app.AppCompatActivity;
